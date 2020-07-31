@@ -4,9 +4,9 @@
 
 # Site
 title: Leo's Blog
-subtitle: Leo's Blog
+subtitle: 替健忘的自己做的筆記
 description: 替健忘的自己做的筆記
-keywords:
+keywords: 技術筆記
 author: Leo Li
 language: zh-tw
 timezone: ''
@@ -29,7 +29,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: google68aaef8b70948c01.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -94,6 +94,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+
+# Sitemap
+sitemap:
+    path: sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
