@@ -4,9 +4,9 @@
 
 # Site
 title: Leo's Blog
-subtitle: Leo's Blog
+subtitle: 替健忘的自己做的筆記
 description: 替健忘的自己做的筆記
-keywords:
+keywords: 技術筆記
 author: Leo Li
 language: zh-tw
 timezone: ''
@@ -94,6 +94,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+
+# Sitemap
+sitemap:
+    path: sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
