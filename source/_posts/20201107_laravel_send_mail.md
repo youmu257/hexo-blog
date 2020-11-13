@@ -25,7 +25,7 @@ categories: PHP
         ->send($sampleMail);
     ```
     * 可以傳入 ```$smapleData``` 信件需要的資料
-        * 可以用 ```{{ $text1 }}``` 顯示傳入變數
+        * 可以用雙層大括號顯示傳入變數
     * Mail::to 設定收件者信箱
 * 寄件者和寄件者名稱會吃 env
     ```
