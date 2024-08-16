@@ -3,7 +3,11 @@
     -  if you want deploy to git repository, run ```npm install hexo-deployer-git --save```
 3. Configure _config.yml to setting deploy git repository
 4. Deploy the website
-    - ```hexo clean "&" hexo d -g```
+    -
+    ```
+    hexo clean
+    hexo d -g
+    ```
 5. Go to https://youmu257.github.io/ check the result
 
 # Local check result
