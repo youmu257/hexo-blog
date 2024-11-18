@@ -15,6 +15,9 @@
     - ```hexo serve```
 2. Go to http://localhost:4000 check the result
 
+# Add new post
+1. Create new post in source/_posts/your_post.md
+
 # Add article
 1. Run ```hexo new post "your_article_name"```
 2. Edit source/_posts/your_article_name.md
@@ -23,14 +26,14 @@
 1. Run ```hexo new page categories_name```
 2. Edit source/categories_name/index.php
     - Add ```type: "category"```
-3. Edit source/_posts/your_page.md
+3. Edit source/_posts/your_post.md
     - Add ```categories: "categories_name"```
 
 # Add tag
 1. Run ```hexo new page tags_name```
 2. Edit source/categories_name/index.php
     - Add ```type: "tags"```
-3. Edit source/_posts/your_page.md
+3. Edit source/_posts/your_post.md
     - Add ```tags: "tags_name"```
 
 # Reference
