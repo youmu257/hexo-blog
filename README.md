@@ -1,37 +1,36 @@
-# Setp up hexo-blog
+# Setup hexo-blog
 1. Run ```npm install``` download package by package.json
     -  if you want deploy to git repository, run ```npm install hexo-deployer-git --save```
-3. Configure _config.yml to setting deploy git repository
-4. Deploy the website
-    -
+2. Configure _config.yml to setting deploy git repository
+3. Deploy the website
     ```
-    hexo clean
-    hexo d -g
+    npm run clean
+    npm run deploy
     ```
-5. Go to https://youmu257.github.io/ check the result
+4. Go to https://youmu257.github.io/ check the result
 
 # Local check result
 1. Start local server
-    - ```hexo serve```
+    - ```npm run server```
 2. Go to http://localhost:4000 check the result
 
 # Add new post
 1. Create new post in source/_posts/your_post.md
 
 # Add article
-1. Run ```hexo new post "your_article_name"```
+1. Run ```npx hexo new post "your_article_name"```
 2. Edit source/_posts/your_article_name.md
 
 # Add category
-1. Run ```hexo new page categories_name```
-2. Edit source/categories_name/index.php
+1. Run ```npx hexo new page categories_name```
+2. Edit source/categories_name/index.md
     - Add ```type: "category"```
 3. Edit source/_posts/your_post.md
     - Add ```categories: "categories_name"```
 
 # Add tag
-1. Run ```hexo new page tags_name```
-2. Edit source/categories_name/index.php
+1. Run ```npx hexo new page tags_name```
+2. Edit source/categories_name/index.md
     - Add ```type: "tags"```
 3. Edit source/_posts/your_post.md
     - Add ```tags: "tags_name"```
