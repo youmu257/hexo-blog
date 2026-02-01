@@ -66,3 +66,6 @@ MEE6 還有許多其他實用功能，如等級系統、自動審核等，有興
 * [MEE6 官網](https://mee6.xyz/)
 * [MEE6 Welcome 文件](https://mee6.xyz/welcome)
 * [Discord 官方網站](https://discord.com/)
+
+---
+📚 [返回 MEE6 教學目錄](/2026/02/01/20260201_mee6_discord_index/)

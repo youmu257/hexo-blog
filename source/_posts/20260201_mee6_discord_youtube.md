@@ -101,3 +101,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCcOWs8dB_1w9GGYUU6TGATg
 
 ## 參考
 * [MEE6 官方網站](https://mee6.xyz/)
+
+---
+📚 [返回 MEE6 教學目錄](/2026/02/01/20260201_mee6_discord_index/)

@@ -145,3 +145,6 @@ categories: 工具教學
 * [MEE6 官網](https://mee6.xyz/)
 * [MEE6 Reaction Roles 教學](https://mee6.xyz/reaction-roles)
 * [Discord 權限設定說明](https://support.discord.com/hc/zh-tw/articles/206029707)
+
+---
+📚 [返回 MEE6 教學目錄](/2026/02/01/20260201_mee6_discord_index/)
